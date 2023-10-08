@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Logan Lyo! I'm interestred in speech signal processing, including ASR and TTS. 
 <!--
 **LoganLiu66/LoganLiu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
