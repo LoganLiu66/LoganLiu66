@@ -1,5 +1,8 @@
 ### Hi there 👋
 My name is Logan Lyo! I'm interestred in speech signal processing, including ASR and TTS. 
+
+
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganLiu66&theme=dark&show_icons=true)
 <!--
 **LoganLiu66/LoganLiu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
